@@ -5,7 +5,7 @@ So there is no shortage of data , Right ?
 Yes We have too much data on every next topic . We just need to analyse the flow of thoughts and here Comes Natural Language Processing to make it done .
 
 I used Natural Language Processing to identify the nature of some tweets and predicts the current status of a particular word . Say "CAA" (Citizenship Amendment Act).
-The nature of a tweet can be mainly divided into :
+The nature of a tweet can be mainly divided into :<br>
 1.) Positive<br>
 2.) Negative<br>
 3.) Neutral<br>
@@ -17,5 +17,5 @@ The nature of a tweet can be mainly divided into :
 2.) Identify the polarity of each tweet
 3.) Present the overall distribution of Nature of various tweets.
 
-<br>
+
 <img src="1_jBHrWrKcMN_DhZiMPk3DIA.png">
