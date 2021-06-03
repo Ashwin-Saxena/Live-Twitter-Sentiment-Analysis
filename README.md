@@ -24,7 +24,7 @@ Important Points :<br>
 2.) Tokenization - Tokenizing the sentences into words(tokens).
 <br>
 3.) TFIDF - Term Frequencey Inverse Document Frequency . 
-<br> I learned this like : " More quantities that's why having low value in market :) ".
+<br> I learned like this: " More quantities that's why having low value in market :) ".
 <br>
 
 <img src="1_jBHrWrKcMN_DhZiMPk3DIA.png">
