@@ -17,5 +17,14 @@ The nature of a tweet can be mainly divided into :<br>
 2.) Identify the polarity of each tweet
 3.) Present the overall distribution of Nature of various tweets.
 
+<br> 
+Important Points :<br>
+1.) Used Stemming to get the root word and count them as same.
+<br>Ex- Flying -> Fly<br>
+2.) Tokenization - Tokenizing the sentences into words(tokens).
+<br>
+3.) TFIDF - Term Frequencey Inverse Document Frequency . 
+<br> I learned this like : " More quantities that's why having low value in market :) ".
+<br>
 
 <img src="1_jBHrWrKcMN_DhZiMPk3DIA.png">
