@@ -17,7 +17,7 @@ The nature of a tweet can be mainly divided into :<br>
 2.) Identify the polarity of each tweet
 3.) Present the overall distribution of Nature of various tweets.
 
-<br> 
+<br> <br> <br>
 Important Points :<br>
 1.) Used Stemming to get the root word and count them as same.
 <br>Ex- Flying -> Fly<br>
