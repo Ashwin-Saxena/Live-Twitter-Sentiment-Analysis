@@ -6,11 +6,11 @@ Yes We have too much data on every next topic . We just need to analyse the flow
 
 I used Natural Language Processing to identify the nature of some tweets and predicts the current status of a particular word . Say "CAA" (Citizenship Amendment Act).
 The nature of a tweet can be mainly divided into :
-1.) Positive
-2.) Negative
-3.) Neutral
+1.) Positive<br>
+2.) Negative<br>
+3.) Neutral<br>
 
-<img src="Picture1.png">
+<img src="Pie Chart.png">
 
 <h3>Processing</h3>
 1.) Fetching Tweets using Twitter API with the help of Tweepy Library.
